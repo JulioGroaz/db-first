@@ -1,0 +1,5 @@
+Marca: VARCHAR (100)
+Modello: VARCHAR (50)
+Anno: YEAR 
+Chilometraggio: MEDIUMINT UNSIGNED
+Prezzo: INTEGER UNSIGNED
